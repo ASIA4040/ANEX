@@ -1,1 +1,1 @@
-git push mainprint("Hello world!")
+print("Hello world!")
